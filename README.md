@@ -6,8 +6,8 @@ Bot to play Bad Apple with Discord messages.
 
 # Requirement
 ・Python  
-・Pillow
-・OpenCV
+・Pillow  
+・OpenCV  
 ・discord.py  
 
 # Licence
