@@ -10,5 +10,9 @@ Bot to play Bad Apple with Discord messages.
 ・OpenCV  
 ・discord.py  
 
+# Reference
+https://github.com/NPCat/bad-apple-bot  
+http://www.nicovideo.jp/watch/sm8628149  
+
 # Licence
 It is released under the MIT License. Please check the LICENCE file for details.
